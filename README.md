@@ -20,5 +20,5 @@ Autoencoders are a type of neural network used for **unsupervised learning**. Au
 
 The architecture of an autoencoder typically consists of an `input layer`, a `hidden layers (encoder)`, and an `output layer(decoder)`. The encoder compresses the input data into a latent space representation, while the decoder reconstructs the original input from the latent space representation.
 
-> If this repo helped in any way, star this repo.
-**Author : [@shoryasethia](https://github.com/shoryasethia)**
+>* If this repo helped in any way, star this repo.
+>* **Author : [@shoryasethia](https://github.com/shoryasethia)**
