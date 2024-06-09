@@ -4,6 +4,7 @@
 |-------------|----------|----------------------|-----|
 |Vanilla autoencoder|[.ipynb](https://github.com/shoryasethia/Autoencoder/blob/main/VanillaAutoEncoder.ipynb)|[🔗](https://github.com/shoryasethia/Autoencoder/tree/main/checkpoints/VanillaAutoEncoder)|0.014516565627219851|
 |Deep Convolutional autoencoder|[.ipynb](https://github.com/shoryasethia/Autoencoder/blob/main/DCAutoEncoder.ipynb)|[🔗](https://github.com/shoryasethia/Autoencoder/tree/main/checkpoints/DCAutoEncoder)|0.00950322496098459|
+|Denoising Autoencoder|[.ipynb](https://github.com/shoryasethia/Autoencoder/blob/main/DenoisingAutoencoder.ipynb)|[🔗](https://github.com/shoryasethia/Autoencoder/tree/main/checkpoints/DenoisingAutoencoder)|0.009893021930423705|
 
 > **For all autoencoders, I have used tensorflow, keras and MNIST Dataset**
 _________________________________________________________________________________________________________________________________________________
